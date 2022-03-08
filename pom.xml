@@ -23,7 +23,7 @@
         <poi.version>4.1.2</poi.version>
         <poi-ooxml.version>4.1.2</poi-ooxml.version>
         <poi-ooxml-schemas.version>4.1.2</poi-ooxml-schemas.version>
-        <poi-scratchpad.version>4.1.2</poi-scratchpad.version>
+        <poi-scratchpad.version>5.2.1</poi-scratchpad.version>
     </properties>
 
     <dependencies>
